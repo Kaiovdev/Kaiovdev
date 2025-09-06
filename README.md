@@ -3,7 +3,7 @@
 **`Desenvolvedor Web`**
 
 Olá, meu nome é Kaio e tenho 20 anos!
-Estou cursando atualmente A.D.S (Análise e Desenvolvimento de Sistemas) e ampliando meus conhecimentos em linguagens, React.js, TypeScript, Node.js, Python, e banco de dados como MySQL, MongoDB, e procuro uma oportunidade de estágio na área de desenvolvimento. Estou motivado a aplicar esses conhecimentos na prática e contribuir com projetos reais, e ao mesmo tempo continuar aprendendo.
+Estou cursando atualmente A.D.S (Análise e Desenvolvimento de Sistemas) e ampliando meus conhecimentos em linguagens, React.js, TypeScript, Node.js, Python, e banco de dados como MySQL, MongoDB, e procuro uma oportunidade de estágio na área de desenvolvimento.
 
 ---
 
