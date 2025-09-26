@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web`**
 
-Desenvolvedor web, com atuação no desenvolvimento de aplicações full stack. Tenho conhecimento em frameworks/bibliotecas como React.js, TypeScript e Node.js com Express.js. Também possuo conhecimento em bancos de dados relacionais (MySQL, PostgreSQL) e não relacionais (MongoDB).
+Desenvolvedor web, com atuação no desenvolvimento de aplicações full stack. Tenho conhecimento em frameworks/bibliotecas como React.js, TypeScript e Node.js com Express.js. Também possuo conhecimento em bancos de dados relacionais (MySQL) e não relacionais (MongoDB).
 
 ---
 
@@ -52,6 +52,15 @@ Desenvolvedor web, com atuação no desenvolvimento de aplicações full stack. 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Mongo" 
+    title="Mongo"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
 <img 
