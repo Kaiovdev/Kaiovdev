@@ -10,20 +10,13 @@ Desenvolvedor web, com atuação no desenvolvimento de aplicações full stack. 
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="React"
+    title="React" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -32,14 +25,17 @@ Desenvolvedor web, com atuação no desenvolvimento de aplicações full stack. 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="TypeScript" 
+    title="TypeScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+
+
 <img 
     align="left" 
     alt="Node" 
@@ -47,6 +43,15 @@ Desenvolvedor web, com atuação no desenvolvimento de aplicações full stack. 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Mongo" 
+    title="Mongo"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
 
 <img 
