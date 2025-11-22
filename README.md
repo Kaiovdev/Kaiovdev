@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web`**
 
-Desenvolvedor web, com atuação no desenvolvimento de aplicações full stack. Tenho conhecimento em frameworks/bibliotecas como React.js, TypeScript e Node.js com Express.js. Também possuo conhecimento em bancos de dados relacionais (MySQL) e não relacionais (MongoDB).
+Desenvolvedor web, com atuação no desenvolvimento de aplicações full stack. Tenho conhecimento em frameworks/bibliotecas como React.js, TypeScript e Tailwind no Front-end e Node.js com Express.js e Prisma no Back-End. Também possuo conhecimento em bancos de dados, MySQL, PostgreeSQL e MongoDB.
 
 ---
 
